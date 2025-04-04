@@ -1,0 +1,1 @@
+This repository hosts the source code for ChatMetamaterials. For comprehensive details on system requirements, installation instructions, example demonstrations (also accessible at http://43.159.130.228:8080/#/), and usage guidelines, please visit our web page at https://chatmetamaterials.github.io/MetaVerse/.
